@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notebook</string>
+    <string name="menu_home">主页</string>
+    <string name="menu_category">分类</string>
+    <string name="menu_bookrack">书架</string>
+    <string name="menu_user">我的</string>
+
+</resources>
